@@ -2,6 +2,8 @@
 
 Framework PHP native minimal berlapis 4, dibangun tanpa dependency eksternal. Setiap lapisan punya tanggung jawab yang jelas dan bisa di-audit baris per baris.
 
+**Current status:** Experimental Only
+
 ---
 
 ## Filosofi
